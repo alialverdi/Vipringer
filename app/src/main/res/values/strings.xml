@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">زنگ مخاطبین ویژه</string>
+    <string name="enabled">فعال باشد</string>
+    <string name="enabled_hint">وقتی گوشی روی سایلنت یا ویبره است، تماس مخاطبین ویژه با صدا زنگ می‌خورد.</string>
+    <string name="status_title">وضعیت دسترسی‌ها</string>
+    <string name="grant_perms">اعطای دسترسی‌ها</string>
+    <string name="grant_dnd">دسترسی «مزاحم نشوید»</string>
+    <string name="grant_battery">خارج کردن از بهینه‌سازی باتری</string>
+    <string name="perm_contacts">خواندن مخاطبین</string>
+    <string name="perm_phone">وضعیت تماس</string>
+    <string name="perm_calllog">شناسایی شماره‌ی تماس‌گیرنده</string>
+    <string name="perm_notif">نمایش اعلان</string>
+    <string name="perm_dnd">عبور از حالت «مزاحم نشوید»</string>
+    <string name="perm_battery">اجرای بدون محدودیت باتری</string>
+    <string name="settings_title">تنظیمات زنگ</string>
+    <string name="volume_label">بلندی صدا: %1$d٪</string>
+    <string name="vibrate">همراه با لرزش</string>
+    <string name="test">آزمایش زنگ (۶ ثانیه)</string>
+    <string name="test_stop">توقف آزمایش</string>
+    <string name="test_name">آزمایش</string>
+    <string name="vip_title">مخاطبین ویژه</string>
+    <string name="add">+ افزودن</string>
+    <string name="empty">هنوز مخاطبی انتخاب نشده است.</string>
+    <string name="remove">حذف</string>
+    <string name="removed">«%1$s» حذف شد</string>
+    <string name="pick_title">انتخاب مخاطبین</string>
+    <string name="search_hint">جستجوی نام یا شماره…</string>
+    <string name="save_count">ذخیره (%1$d مخاطب)</string>
+    <string name="saved">ذخیره شد</string>
+    <string name="need_contacts">دسترسی به مخاطبین داده نشده است</string>
+    <string name="channel_name">تماس مخاطب ویژه</string>
+    <string name="notif_title">تماس از %1$s</string>
+    <string name="notif_text">گوشی سایلنت است؛ به‌خاطر مخاطب ویژه زنگ می‌خورد.</string>
+    <string name="notif_stop">قطع صدا</string>
+</resources>
